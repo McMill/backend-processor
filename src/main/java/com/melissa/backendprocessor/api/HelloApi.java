@@ -1,6 +1,6 @@
-package api;
+package com.melissa.backendprocessor.api;
 
-import beans.TestBean;
+import com.melissa.backendprocessor.beans.TestBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

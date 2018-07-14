@@ -1,4 +1,4 @@
-package beans;
+package com.melissa.backendprocessor.beans;
 
 /**
  * Created by Mill on 7/14/2018.

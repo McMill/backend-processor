@@ -1,6 +1,6 @@
-package config;
+package com.melissa.backendprocessor.config;
 
-import beans.TestBean;
+import com.melissa.backendprocessor.beans.TestBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
